@@ -6,11 +6,11 @@ A 3D-printed track ball/joystick with an Arduino Micro + MPU-6050 6DoF is used t
 
 Directory:
 - Construction plans
-    immersive room.stp 3D-file of the room
+    - immersive room.stp 3D-file of the room
 - Track ball
   - 3D files
   - Arduino
-    
+    - echoes_track_ball_mpu6050.ino    
 
 
 For questions, email: utstallningsverkstaden@raa.se
